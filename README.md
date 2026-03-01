@@ -6,7 +6,7 @@ A simple Roll-a-Ball game built with Unity.
 
 ## Preview
 
-https://github.com/pranavmamatha/Roll-A-Ball/raw/refs/heads/main/Gameplay/Gameplay.m4v
+![Gameplay Preview](Gameplay/preview.gif)
 
 ## About
 
